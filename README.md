@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# Author
+* <a href="linkedln.com/in/yinktech"> Yinka's Linkedln </a>
