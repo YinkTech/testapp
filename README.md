@@ -25,3 +25,4 @@ Things you may want to cover:
 # Author
 * <a href="linkedln.com/in/yinktech"> Yinka's Linkedln </a>
 * <a href="twitter.com/yink_tech"> Yinka's twitter account </a>
+* <a href="instagram.com/yinktech.inc"> Yinka's instagram  account </a>
