@@ -26,3 +26,4 @@ Things you may want to cover:
 * <a href="linkedln.com/in/yinktech"> Yinka's Linkedln </a>
 * <a href="twitter.com/yink_tech"> Yinka's twitter account </a>
 * <a href="instagram.com/yinktech.inc"> Yinka's instagram  account </a>
+* <a href="github.com/yinktech"> Yinka's github account </a>
